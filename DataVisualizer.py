@@ -1,6 +1,6 @@
 bl_info = {
     "name": "CSV Ball-Stick Graph",
-    "author": "Mridul",
+    "author": "Mridul Sarmah",
     "version": (1, 1),
     "blender": (2, 80, 0),
     "location": "View3D > Sidebar > CSV Visualizer",
